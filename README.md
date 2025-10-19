@@ -1,6 +1,3 @@
-Below is the updated `README.md` file tailored to match the provided project details, code, and description. It incorporates the provided information, ensures clarity, and follows the structure outlined in the example while addressing the specific files and functionality.
-
----
 
 # Quantitative Stock Ranking System
 
